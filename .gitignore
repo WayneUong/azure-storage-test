@@ -1,0 +1,11 @@
+node_modules/
+package-lock.json
+.idea/
+/packages/
+**/.DS_STORE
+dev*.json
+.cache/
+tests/coverage/
+junit.xml
+server_test.xml
+cypress/screenshots
