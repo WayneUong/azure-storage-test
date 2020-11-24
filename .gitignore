@@ -9,3 +9,4 @@ tests/coverage/
 junit.xml
 server_test.xml
 cypress/screenshots
+azure-storage-test.tar.gz
